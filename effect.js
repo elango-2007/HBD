@@ -10,7 +10,7 @@ $(window).load(function () {
 $('document').ready(function () {
 
   /* ─────────────────────────────────────────────────────
-     BALLOON RESIZE  (8 balloons: HBDADITH)
+     BALLOON RESIZE  (8 balloons: HBDDEEPS)
   ───────────────────────────────────────────────────── */
   var vw;
   $(window).resize(function () {
